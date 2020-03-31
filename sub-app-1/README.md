@@ -1,10 +1,4 @@
-# micro-frontends
-基于vue + qiankun的微前端框架测试demo
-
-[qiankun](https://qiankun.umijs.org/zh/guide/)
-
-- [ ] 子应用间跳转
-- [ ] 子应用间通信
+# sub-app-1
 
 ## Project setup
 ```
